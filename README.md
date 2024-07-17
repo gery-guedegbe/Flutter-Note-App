@@ -15,6 +15,6 @@ NoteApp est une application mobile développée avec Flutter pour la gestion per
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/your-username/NoteApp.git
+  git clone [https://github.com/gery-guedegbe/Flutter-Note-App.git]
 
 ```
